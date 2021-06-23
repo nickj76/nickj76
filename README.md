@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nickj76
-- 👀 I’m interested in ...Powershell
-- 🌱 I’m currently learning ...Powershell
+- 👀 I’m interested in ...Powershell, Intune, Automation
+- 🌱 I’m currently learning ...Powershell, Intune
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
